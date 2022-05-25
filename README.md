@@ -1,9 +1,6 @@
 # JavaCore
 Course
 
-# JavaCore
-Course
-
 ## lesson1
 **Задание 1 урока**
 
